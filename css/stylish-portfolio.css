@@ -180,6 +180,7 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    background-color: rgba(254,252,213,.7);
 }
 
 
@@ -187,12 +188,26 @@ hr.small {
 
 .services {
     padding: 50px 0;
+
+
+}
+
+#services {
+
 }
 
 .service-item {
     margin-bottom: 30px;
 }
 
+/* Apps */
+.apps {
+  background-color: rgb(253,253,236);
+}
+
+.languages {
+  background-color: rgba(254,252,213,.9);
+}
 
 /* Callout */
 
@@ -260,6 +275,7 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-color: rgba(253,253,236,0.5);
 }
 
 #to-top {
@@ -281,4 +297,8 @@ footer {
 
 #technologyicons {
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+#lorin {
+  border-radius: 20px;
 }
